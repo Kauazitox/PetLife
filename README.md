@@ -2,8 +2,8 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kauazitox/PetLife/blob/main/LICENSE) 
 
-# Sobre o site
-   O projeto foi desenvolvido no curso da OneBitCode, um site focado a uma loja de Pets, nada muito expressivo mas tendo uma importancia.
+# Sobre o projeto
+   Na PetLife, unimos paixão pelos animais e tecnologia para oferecer uma experiência única. Nosso site permite consultas online, interação com especialistas e uma variedade de serviços. Junte-se a nós e faça parte dessa comunidade apaixonada por pets! 
    
 LINK: https://kauazitox.github.io/PetLife/
 
@@ -11,10 +11,8 @@ LINK: https://kauazitox.github.io/PetLife/
 - HTML
 - CSS
 - JS
-- SCSS
 
 # Como abrir o projeto
-Pré-requisitos: Java 11
 ```bash
 # clique no link no inicio e tenha acesso ao nosso projeto
 
